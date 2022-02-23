@@ -14,6 +14,11 @@
 - Token JWT
 - Autorização de rotas por perfil
 
+### 📝 Diagrama UML
+
+![image](https://user-images.githubusercontent.com/70236849/155344372-848454ff-8223-423f-889d-329baf0b15d8.png)
+
+
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
