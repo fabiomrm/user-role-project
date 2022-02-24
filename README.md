@@ -1,10 +1,14 @@
-<h1 align="center">USER-ROLE-PROJECT</h1>
-<p align="center">Projeto para estudar autenticação e autorização</p>
+<h1 align="center">USER-CITY-EVENT PROJECT</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=USER-ROLE&message=FMRM&color=blueviolet&style=flat-square&logo=ghost"/>
+	Projeto de conclusão da segunda etapa do curso <a href="https://www.linkedin.com/school/devsuperior/">Dev Superior</a>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=USER-CITY-EVENT&message=FMRM&color=blueviolet&style=flat-square&logo=ghost"/>
 </p>
 <h4 align="center"> 
-	✔️ Concluído ✔️
+	🚧 ...Em construção... 🚧
 </h4>
 
 ### 😊 Objetivo
@@ -17,6 +21,30 @@
 ### 📝 Diagrama UML
 
 ![image](https://user-images.githubusercontent.com/70236849/155344372-848454ff-8223-423f-889d-329baf0b15d8.png)
+
+### Restrições
+- somentes rotas de leitura de eventos e cidades são **públicas**;
+- **clientes** podem inserir novos eventos;
+- os demais acessos são permitidos apenas para **admins**.
+
+### End-points
+- [x] POST /oauth/token
+```json
+{
+    "username": "newuser@gmail.com",
+    "password": "password"
+}
+```
+- [x] GET /cities
+
+- [x] POST /cities
+```json
+{
+    "name": "New City"
+}
+```
+- [ ] GET /events
+- [ ] POST /events
 
 
 ### 🛠 Tecnologias
