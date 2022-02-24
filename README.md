@@ -1,4 +1,4 @@
-<h1 align="center">USER-CITY-EVENT PROJECT</h1>
+<h1 align="center">USER-ROLE PROJECT</h1>
 
 
 <p align="center">
