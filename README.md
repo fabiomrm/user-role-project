@@ -1,7 +1,7 @@
 <h1 align="center">USER-CITY-EVENT PROJECT</h1>
 
 <p align="center">
-	Projeto de conclusão da segunda etapa do curso <a href="https://www.linkedin.com/school/devsuperior/">Dev Superior</a>.
+	Projeto de conclusão da terceira etapa do curso <a href="https://www.linkedin.com/school/devsuperior/">Dev Superior</a>.
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
 
 ### 😊 Objetivo
 <p align="left">Estudar validação com Bean Validation, autenticação e autorização:</p>
+
 - Spring Security
 - OAuth 2.0
 - Token JWT
