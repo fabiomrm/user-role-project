@@ -20,31 +20,6 @@
 
 ![image](https://user-images.githubusercontent.com/70236849/155344372-848454ff-8223-423f-889d-329baf0b15d8.png)
 
-### Restrições
-- somentes rotas de leitura de eventos e cidades são **públicas**;
-- **clientes** podem inserir novos eventos;
-- os demais acessos são permitidos apenas para **admins**.
-
-### End-points
-- [x] POST /oauth/token
-```json
-{
-    "username": "newuser@gmail.com",
-    "password": "password"
-}
-```
-- [x] GET /cities
-
-- [x] POST /cities
-```json
-{
-    "name": "New City"
-}
-```
-- [ ] GET /events
-- [ ] POST /events
-
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
